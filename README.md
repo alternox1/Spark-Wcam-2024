@@ -3,7 +3,7 @@ Spark-Wcam-2024 official Repo 🎦
 ## Spark open-source projects © 
 Open Source Porjects Made By Spark Corp, Your safe supervision products provider.
 ## Attachements
-You can find the Firmware (`firmware.bin`) in addition to the full manual (wcam-full-manual) attached on top. 
+You can find the Firmware (`firmware.bin`) in addition to the full manual (`wcam-full-manual.pdf`) attached on top. 
 "Everything is open-source if you know how to do Reverse Engineering". 
 ## Specs
 ### Resolution
