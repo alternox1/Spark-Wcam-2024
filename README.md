@@ -6,7 +6,7 @@ Open Source Porjects Made By Spark Corp, Your safe supervision products provider
 You can find the Firmware (`firmware.bin`) in addition to the full manual (`wcam-full-manual.pdf`) attached on top. 
 "Everything is open-source if you know how to do Reverse Engineering". 
 ## Specs
-```md
+```python
 Resolution:
 Maximum Resolution: 4K Ultra HD (3840 x 2160 pixels)
 Frame Rate: Up to 60 frames per second (fps) at 4K resolution
