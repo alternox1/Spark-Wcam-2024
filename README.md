@@ -6,6 +6,7 @@ Open Source Porjects Made By Spark Corp, Your safe supervision products provider
 You can find the Firmware (`firmware.bin`) in addition to the full manual (`wcam-full-manual.pdf`) attached on top. 
 "Everything is open-source if you know how to do Reverse Engineering". 
 ## Specs
+```md
 ### Resolution
 
 **Maximum Resolution:** 4K Ultra HD (3840 x 2160 pixels)
@@ -53,5 +54,4 @@ You can find the Firmware (`firmware.bin`) in addition to the full manual (`wcam
 **Universal Clip:** Adjustable clip for easy mounting on laptops, monitors, or tripods
 
 **Tripod Mount:** Standard tripod thread for flexible placement options
-
-
+```
