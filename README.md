@@ -1,7 +1,7 @@
 # Spark-Wcam-2024
 ![alt text](https://i.imgur.com/eX2PbDe.png)
 
-=Note= : This repo was made for a CTF challenge in SparkCTF 2024 edition, it does not relate to any real equipment or camera device ever.
+**Note** : This repo was made for a CTF challenge in SparkCTF 2024 edition, it does not relate to any real equipment or camera device ever.
 
 Spark-Wcam-2024 official Repo 🎦
 ## Spark open-source projects © 
